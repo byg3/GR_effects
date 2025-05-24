@@ -7,6 +7,6 @@ The papers Ginat et al. (2021), JCAP12(2021)031 and Villey et al. (2025) seek to
 
 The Mathematica files are published together with Villey et al., and perform three non-trivial test on our results.
 
-Constant potential.
-Pure (second-order!) gradient mode.
-Separate Universe long mode (a curved FLRW background space-time, viewed as a perturbation to a flat one).
+1. Constant potential.
+2. Pure (second-order!) gradient mode.
+3. Separate Universe long mode (a curved FLRW background space-time, viewed as a perturbation to a flat one).
